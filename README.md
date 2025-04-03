@@ -6,7 +6,7 @@ I'm an engineer, designer, photographer, and woodworker. I like to build delight
 
 I studied computer science at Princeton University and have worked as a software engineer at a variety of companies, including:
 
-- [Codeium](https://codeium.com): AI-powered developer tools (autocomplete, chat, search)
+- [Windsurf (formerly Codeium)](https://windsurf.com): World's first AI agent powered IDE
 - [Nuro](https://nuro.ai): self-driving car robotics company, leading the Autonomy Visualization team.
 - [Airbnb](https://airbnb.com): Marketplace for renting homes
 - [Salesforce](https://www.salesforce.com): Launched Einstein Designer, an AI generative UI product. Dreamforce 2020. [[demo](https://ux-design-awards.com/winners/einstein-designer-powered-by-deep-learning-ux)]
