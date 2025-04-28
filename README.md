@@ -1,6 +1,6 @@
 ### Good to meet you 👋
 
-[![kevinhou22 twitter](https://img.shields.io/twitter/follow/kevinhou22.svg?style=social)](https://twitter.com/kevinhou22) [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+[![kevinhou22 twitter](https://img.shields.io/twitter/follow/kevinhou22.svg?style=social)](https://twitter.com/kevinhou22) [![built with Windsurf](https://windsurf.com/badges/main)](https://windsurf.com)
 
 I'm an engineer, designer, photographer, and woodworker. I like to build delightful AI-powered products that bring joy and save you time.
 
