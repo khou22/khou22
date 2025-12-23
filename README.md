@@ -6,6 +6,7 @@ I'm an engineer, designer, photographer, and woodworker. I like to build delight
 
 I studied computer science at Princeton University and have worked as a software engineer at a variety of companies, including:
 
+- [Google Antigravity by DeepMind](https://antigravity.google/): Google's agent-first IDE, joined GDM during [Windsurf <> Google deal](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/)
 - [Windsurf (formerly Codeium)](https://windsurf.com): World's first AI agent powered IDE
 - [Nuro](https://nuro.ai): self-driving car robotics company, leading the Autonomy Visualization team.
 - [Airbnb](https://airbnb.com): Marketplace for renting homes
